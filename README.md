@@ -1,6 +1,6 @@
 # Teknofest-HydrodriveZHUM
 
-#  : Hidrojen Yakıt Hücreli Araçlarda Soğuk Başlatma İçin Q-Öğrenme Tabanlı Hibrit Termal Yönetim Sistemi
+#  Hidrojen Yakıt Hücreli Araçlarda Soğuk Başlatma İçin Q-Öğrenme Tabanlı Hibrit Termal Yönetim Sistemi
 
 Bu proje, **Teknofest 2026** kapsamında hidrojen yakıt hücreli araçların dondurucu soğuklarda verimli çalıştırılması için geliştirilmiştir.
 
