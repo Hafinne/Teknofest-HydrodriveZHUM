@@ -18,5 +18,5 @@ Bu proje, **Teknofest 2026** kapsamında hidrojen yakıt hücreli araçların do
 - Fatma Zehra Yeşilyurt
 - Mehmet Emre Köksal
 - Utku Başsimitci
-- ![Eğitim Performansı Grafiği](C:\Users\hanife\Desktop\grafikler)
+
   
